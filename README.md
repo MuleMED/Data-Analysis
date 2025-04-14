@@ -5,7 +5,7 @@
 🎯 **Goal:** Become a proficient Data Analyst in 3–4 months  
 📅 **Start Date:** April 12, 2025  
 📆 **End Date:** August 10, 2025  
-📁 **Bootcamp Resource:** [Alex The Analyst Bootcamp on YouTube]([https://www.youtube.com/@AlexTheAnalyst](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF))
+📁 **Bootcamp Resource:** [Alex The Analyst Bootcamp on YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)
 
 ---
 
@@ -62,8 +62,10 @@ _Total Weekly Commitment: 15–18 hrs_
 
 You can find my daily learning updates on:
 
-- 📱 **WhatsApp Status** – Behind-the-scenes of my learning  
-- 🎥 **TikTok** – Bite-sized learning recaps: `@yourhandle`
+- 📱 **WhatsApp Status** – Behind-the-scenes of my learning  📱 [WhatsApp – Save as Mule](https://wa.me/256776662314)
+
+- 🎥 **TikTok** – Bite-sized learning recaps: 🎥 [TikTok – @mulemed](https://www.tiktok.com/@mulemed)
+
 
 ---
 
