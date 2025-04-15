@@ -1,0 +1,11 @@
+employee_id,age,first_name,last_name,occupation,salary,department_name
+1,44,Leslie,Knope,"Deputy Director of Parks and Recreation",75000,"Parks and Recreation"
+3,36,Tom,Haverford,Entrepreneur,50000,"Parks and Recreation"
+4,29,April,Ludgate,"Assistant to the Director of Parks and Recreation",25000,"Parks and Recreation"
+5,61,Jerry,Gergich,"Office Manager",50000,"Parks and Recreation"
+6,46,Donna,Meagle,"Office Manager",60000,"Parks and Recreation"
+7,35,Ann,Perkins,Nurse,55000,Healthcare
+8,43,Chris,Traeger,"City Manager",90000,"Public Works"
+9,38,Ben,Wyatt,"State Auditor",70000,Finance
+11,40,Mark,Brendanawicz,"City Planner",57000,"Public Works"
+12,37,Craig,Middlebrooks,"Parks Director",65000,"Parks and Recreation"
